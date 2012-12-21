@@ -1,4 +1,4 @@
-defmodule ExUnit.Formatter.Emoji.DrinkingGameTea do
+defmodule ExUnit.Formatter.Emoji.DrinkingTea do
   use ExUnit.Formatter.Emoji
 
   def passed_format, do: "\x{1F375} "
