@@ -6,4 +6,8 @@ defmodule ExUnitEmojiTest do
   test "the truth" do
     assert true
   end
+
+  test "fail" do
+    assert false
+  end
 end
