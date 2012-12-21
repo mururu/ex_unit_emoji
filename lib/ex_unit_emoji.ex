@@ -1,0 +1,2 @@
+defmodule ExUnitEmoji do
+end
