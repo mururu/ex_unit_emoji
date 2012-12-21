@@ -1,4 +1,4 @@
-defmodule ExUnit.Formatter.Emoji.LifeHearts do
+defmodule ExUnit.Formatter.Emoji.Hearts do
   use ExUnit.Formatter.Emoji
 
   def passed_format, do: "\x{1F49A} "
